@@ -22,10 +22,7 @@ const devConfig = {
         "react", 
         "react-dom"
       ]
-    }),
-    new HtmlWebpackPlugin({
-      template: './public/index.html',
-    }),
+    })
   ],
 };
 
